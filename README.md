@@ -1,3 +1,13 @@
+# Preface
+[This is forked from WuDi-ZhanShen](https://github.com/WuDi-ZhanShen/AndroidUHidPureJava). All credits goes to him.
+
+# What's different in this fork?
+This fork only simulates a gamepad controller called Xbox Wireless Controller. \
+The relevant code snippets for keyboard, mouse and touchscreen simulation is removed.
+
+# How to use for Waydroid
+To follow . . .
+
 # AndroidUHidPureJava
 
 A HID device simulation implemented purely in Java! 
